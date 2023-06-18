@@ -4,3 +4,5 @@
     <img src="https://media.giphy.com/media/tpVxjNEzteDYCFs9H3/giphy.gif" />
   </a>
 </p>
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Alshadex&show_icons=true&theme=tokyonight)](https://github.com/Alshadex)
