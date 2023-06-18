@@ -1,4 +1,1 @@
-<p align="center">
-    [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Alshadex&show_icons=true&theme=tokyonight)](https://github.com/Alshadex)
-</p>
-
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Alshadex&show_icons=true&theme=tokyonight)](https://github.com/Alshadex)
